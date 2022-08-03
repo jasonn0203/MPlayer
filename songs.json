@@ -1,0 +1,39 @@
+{
+  "songs": [
+    {
+      "name": "Vi me anh bat chia tay",
+      "author": "Miu Le, Karik",
+      "url": "./assets/musics/ViMeAnhBatChiaTay-MiuLe-7503053.mp3",
+      "image": "./images/miule.jpg",
+      "id": 1
+    },
+    {
+      "name": "Pillowtalk",
+      "author": "Zayn",
+      "url": "./assets/musics/Pillowtalk - Zayn.mp3",
+      "image": "./images/pillowtalk.jpg",
+      "id": 2
+    },
+    {
+      "name": "Vai cau noi co khien nguoi thay doi",
+      "author": "Grey D",
+      "url": "./assets/musics/Vaicaunoicokhiennguoithaydoi-GREYDDoanTheLan-7576195.mp3",
+      "image": "./images/greyd.jpg",
+      "id": 3
+    },
+    {
+      "name": "Chay khoi the gioi nay",
+      "author": "Da Lab, Phuong Ly",
+      "url": "./assets/musics/ChayKhoiTheGioiNay-DaLABPhuongLy-7574104.mp3",
+      "image": "./images/dalab-ply.jpg",
+      "id": 4
+    },
+    {
+      "name": "Nguoi thuong",
+      "author": "Hoang Ton",
+      "url": "./assets/musics/Nguoi Thuong - Hoang Ton.mp3",
+      "image": "./images/hoang-ton.jpg",
+      "id": 5
+    }
+  ]
+}
